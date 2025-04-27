@@ -18,3 +18,14 @@ Klasifikasi Usia
 - Menggunakan function
 - Menggunakan switch case
 - Menggunakan Loop
+
+## Task2
+
+Kalkulator Sederhana
+
+### Requrirement:
+
+- Menggunakan function
+- Menggunakan switch case
+- Memilih Operasi (Penjumlahan, Pengurangan, Perkalian, Pembagian)
+- Konversi input ke number (parseInt / parseFloat).
