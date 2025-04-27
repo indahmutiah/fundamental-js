@@ -1,2 +1,20 @@
 # fundamental-js
-Fundamental JS for bootcamp QA instensive Task1  
+
+Fundamental JS for bootcamp QA instensive Task1 and Task2
+
+## Task1
+
+Klasifikasi Usia
+
+### Kategori:
+
+- Anak-anak: 0–12 tahun
+- Remaja: 13–17 tahun
+- Dewasa: 18–59 tahun
+- Lansia: 60+ tahun
+
+### Requrirement:
+
+- Menggunakan function
+- Menggunakan switch case
+- Menggunakan Loop
