@@ -19,6 +19,10 @@ Klasifikasi Usia
 - Menggunakan switch case
 - Menggunakan Loop
 
+### Running
+
+`node klasifikasi-usia.js`
+
 ## Task2
 
 Kalkulator Sederhana
@@ -29,3 +33,7 @@ Kalkulator Sederhana
 - Menggunakan switch case
 - Memilih Operasi (Penjumlahan, Pengurangan, Perkalian, Pembagian)
 - Konversi input ke number (parseInt / parseFloat).
+
+### Running
+
+`node kalkulator-sederhana.js`
