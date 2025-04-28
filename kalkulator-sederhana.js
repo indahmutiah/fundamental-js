@@ -1,4 +1,4 @@
-process.stdout.write("Pilih operasi:\n");
+process.stdout.write("Hi! Silakan pilih operasi yang ingin dijalankan:\n");
 process.stdout.write("1. Penjumlahan\n");
 process.stdout.write("2. Pengurangan\n");
 process.stdout.write("3. Perkalian\n");
