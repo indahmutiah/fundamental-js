@@ -36,16 +36,14 @@ console.log("anak-anak :", jumlahKategori["anak-anak"]);
 console.log("remaja :", jumlahKategori["remaja"]);
 console.log("dewasa :", jumlahKategori["dewasa"]);
 console.log("lansia :", jumlahKategori["lansia"]);
-console.log("-------------------------------------------------");
+console.log("-----------------------------------------------");
 
 // Function Untuk Case Menghitung Usia dengan Inputan
 
 let inputUsia = [];
 let totalInput = 10;
 
-process.stdout.write(
-  "Hi! Kita Mau List usia nih. Yuk list usia disekitar kamu!\n"
-);
+process.stdout.write("Hi! Yuk list usia disekitar kamu!\n");
 process.stdout.write("Masukkan Usia : ");
 process.stdin.on("data", function (usia) {
   inputUsia.push(parseInt(usia.toString().trim()));
