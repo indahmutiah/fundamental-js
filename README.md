@@ -13,7 +13,7 @@ Klasifikasi Usia
 - Dewasa: 18–59 tahun
 - Lansia: 60+ tahun
 
-### Requrirement:
+### Requirements:
 
 - Menggunakan function
 - Menggunakan switch case
@@ -27,7 +27,7 @@ Klasifikasi Usia
 
 Kalkulator Sederhana
 
-### Requrirement:
+### Requirements:
 
 - Menggunakan function
 - Menggunakan switch case
