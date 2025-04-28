@@ -1,6 +1,6 @@
 # fundamental-js
 
-Fundamental JS for bootcamp QA instensive Task1 and Task2
+Fundamental JS for bootcamp QA instensive by After Office Task1 and Task2
 
 ## Task1
 
